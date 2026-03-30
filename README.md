@@ -88,5 +88,3 @@ secret_project/
  ├── cipher.py
  └── lost.txt
 
-
-Si tu veux, je peux aussi te faire une version encore plus “prépa” avec un ton un peu plus formel (genre rapport de TIPE ou mini-projet noté) 👍
