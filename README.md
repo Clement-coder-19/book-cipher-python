@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Ce projet consiste à réaliser un système simple de chiffrement basé sur le principe du **book cipher**.
+Ce projet consiste à réaliser un système de chiffrement basé sur le principe du **book cipher**.
 L’idée est d’utiliser un texte (ici `lost.txt`) comme référence pour transformer un message en une suite de nombres, puis pouvoir retrouver le message initial.
 
 ---
